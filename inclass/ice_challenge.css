@@ -1,0 +1,27 @@
+body {
+    background-color: lightpink;
+}
+h1 {
+    font-size: 2em;
+    text-align: center;
+    color: white;
+}
+.quote {
+    font-size: small;
+    text-align: center;
+    color: white;
+}
+.list {
+    margin-left: 40%;
+}
+.picture {
+    margin: 0 auto;
+    width 200px
+    display: flex;
+    align-items: center;
+}
+h2 {
+    font-size: 2em;
+    text-align: center;
+    color: white;
+}
