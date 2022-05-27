@@ -1,0 +1,16 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+p {
+    background-color: lightgray;
+    color: darkred;
+    font-size: 4em;
+}
+.up_front {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 6em;
+}
