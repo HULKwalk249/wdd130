@@ -23,8 +23,88 @@
   --nav-hover-background-color: #396E94;
 }
 body {
-    
+    background-color: #fbff00;
 }
 img {
     width: 400px;
+}
+.logo {
+  width: 150px;
+}
+header {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  background-color: black;
+  color: #1eff00;
+}
+header a {
+  color: #1eff00;
+}
+nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+#redmist {
+  display: grid;
+  place-items: center;
+  background-color: black;
+  margin: 15px 0;
+}
+h1 {
+  color: #1eff00;
+}
+#breath-it {
+  display: grid;
+  place-items: center;
+  background-color: black;
+  margin: 15px 0;
+}
+h4 {
+  color: #1eff00;
+}
+h2 {
+  text-align: center;
+  color: #1eff00;
+}
+p {
+  text-align: center;
+  color: #1eff00;
+}
+.card-img {
+  width: 600px;
+}
+#grapple {
+  display: grid;
+  place-items: center;
+  background-color: black;
+  margin: 15px 0;
+}
+#marksman {
+  display: grid;
+  place-items: center;
+  background-color: black;
+  margin: 15px 0;
+}
+#survive {
+  display: grid;
+  place-items: center;
+  background-color: black;
+  margin: 15px 0;
+}
+h3 {
+  color: #1eff00;
+}
+footer {
+  background-color: black;
+}
+footer a {
+  color: #1eff00;
+}
+.brand {
+  width: 150px;
+}
+.button {
+  padding: 15px;
+  background-color: aqua;
 }
